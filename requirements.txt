@@ -2,7 +2,7 @@
 beautifulsoup4==4.9.3
 certifi==2021.5.30
 chardet==4.0.0
-django==2.2.20
+django==2.2.22
 idna==2.10
 pytz==2021.1
 requests==2.25.1
